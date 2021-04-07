@@ -1,0 +1,36 @@
+.d-header {
+  border-bottom: 8px solid #ffcb05;
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.25);
+}
+
+.topic-list .main-link a.title {
+  color: #ffcb05;
+}
+
+// Last Visit separator re-coloring
+.topic-list .topic-list-item-separator td {
+  border-bottom: 1px solid #ffcb05;
+  line-height: 0.1em;
+  padding: 0px;
+  text-align: center;
+}
+
+.topic-list .topic-list-item-separator td span {
+  background-color: #0b264c;
+  color: #ffcb05;
+  padding: 0px 8px;
+  font-size: 0.929em;
+}
+
+.d-header-icons .unread-notifications {
+  background-color: #005a2d;
+  color: #fdfbf9;
+}
+
+.header-dropdown-toggle .flagged-posts,
+.header-dropdown-toggle .queued-posts,
+.header-dropdown-toggle .reviewables {
+  background: #b70614;
+  border: 1px solid #fff;
+  color: #fff;
+}

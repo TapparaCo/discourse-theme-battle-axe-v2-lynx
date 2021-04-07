@@ -1,0 +1,19 @@
+{
+  "name": "Battle Axe 2.0 Lynx",
+  "about_url": "https://github.com/TapparaCo/discourse-theme-battle-axe-v2-lynx",
+  "license_url": "https://github.com/TapparaCo/discourse-theme-battle-axe-v2-lynx/blob/master/LICENSE.md",
+  "color_schemes": {
+    "Battle Axe 2.0 Lynx Colors": {
+      "primary": "ffffff",
+      "secondary": "005a2d",
+      "tertiary": "ffffff",
+      "quaternary": "ffffff",
+      "header_background": "1b1b1b",
+      "header_primary": "ffffff",
+      "highlight": "ffcb05",
+      "danger": "b30210",
+      "success": "009900",
+      "love": "eb5f05"
+    }
+  }
+}
